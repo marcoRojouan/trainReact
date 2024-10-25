@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1 ,
+        "title" : "Aspirateur Dysan",
+        "description": "Pour aspirer des trucs",
+        "price": "124 $",
+        "image" : "https://img.freepik.com/premium-photo/carpet-cleaner-isolated-white-background_1029679-90164.jpg?w=740",
+        "category": "Electro-Ménager"
+    },
+    {
+        "id" : 2 ,
+        "title" : "Aspirateur Rowenta",
+        "description" :"Ca aspire moins bien les trucs",
+        "price" :"122 $",
+        "image" : "https://img.freepik.com/premium-photo/carpet-cleaner-isolated-white-background_1029679-90164.jpg?w=740",
+        "category": "Electro-Ménager"
+
+    },
+    {
+        "id" : 3 ,
+        "title" : "Aspirateur Magimix",
+        "description" :"Ca aspire vraiment mal les trucs",
+        "price" :"80 $",
+        "image" : "https://img.freepik.com/premium-photo/carpet-cleaner-isolated-white-background_1029679-90164.jpg?w=740",
+        "category": "Electro-Ménager"
+    }
+]
